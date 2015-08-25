@@ -2,6 +2,28 @@
 
 [JSer.info](http://jser.info/ "JSer.info")のロゴやアイコン等の画像です。
 
+## Usage
+
+以下からzipファイルとして一括でダウンロードすることが出来まs。
+
+- [github.com/jser/media/archive/gh-pages.zip](https://github.com/jser/media/archive/gh-pages.zip)
+
+また、以下のURLから直接ロゴとアイコンを参照できます。
+
+```markdown
+![JSer.info](http://jser.info/media/icon.png)
+```
+
+![JSer.info](http://jser.info/media/icon.png)
+
+
+```markdown
+![JSer.info](http://jser.info/media/logo.png)
+```
+
+![JSer.info](http://jser.info/media/logo.png)
+
+
 
 ## Contributing
 
