@@ -26,7 +26,6 @@ JSer.infoへリンクを貼るときなどに自由に利用出来る画像で�
 ![JSer.info](https://jser.info/media/logo.png)
 
 
-
 ## Contributing
 
 デザインの修正などはPull RequestやIssueを立てて下さい。
@@ -43,6 +42,11 @@ CC-BYで自由に利用できます。
 
 [![CC-BY](https://licensebuttons.net/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-## Fonts
 
-[Josefin Slab](https://www.google.com/fonts/specimen/Josefin+Slab "Josefin Slab")をベースとしたものです。
+## Development
+
+- Figma: <https://www.figma.com/file/q7wkgRXRWdYbv8ScZQmERs/JSer.info?node-id=1%3A3>
+
+### Fonts
+
+[Josefin Sans](https://fonts.google.com/specimen/Josefin+Sans)をベースとしたものです。
